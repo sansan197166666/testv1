@@ -1,4 +1,4 @@
 [submodule "libs/hbb_common"]
-	#t
+	#ts
 	path = libs/hbb_common
 	url = https://github.com/sansan197166666/tetscom
